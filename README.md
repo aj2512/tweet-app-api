@@ -49,7 +49,7 @@ In terminal, under code directory, run app.py
 python app.py
 ```
 
-### Examples
+## Examples
 ### Searching Hashtags
 
 Ex. Hashtag = python
